@@ -1,7 +1,7 @@
 
 # Whatsapp-Chat-Analyzer
 
-A Streamlit Python Application capabte to fetch Analysis on Whatsapp Chat.
+A Streamlit Python Application capable to fetch Analysis on Whatsapp Chat.
 
 ## Insights include : 
 	-Uploading New Datasets from Local system
